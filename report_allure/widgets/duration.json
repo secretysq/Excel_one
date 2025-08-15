@@ -1,10 +1,10 @@
 [ {
-  "uid" : "725ab68ff8a3f3a9",
+  "uid" : "103dcdb98760f92d",
   "name" : "获取角色列表",
   "time" : {
-    "start" : 1755242085022,
-    "stop" : 1755242085319,
-    "duration" : 297
+    "start" : 1755248390102,
+    "stop" : 1755248390365,
+    "duration" : 263
   },
   "status" : "passed",
   "severity" : "normal"
