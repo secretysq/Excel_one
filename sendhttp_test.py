@@ -1,6 +1,5 @@
 import requests
 
-
 def send_requests(url, method, data=None, params=None,headers=None):
     if method == 'get':
         # res = requests.get(url, params, data=data,headers=headers)

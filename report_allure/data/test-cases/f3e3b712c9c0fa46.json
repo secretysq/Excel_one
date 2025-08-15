@@ -1,12 +1,12 @@
 {
-  "uid" : "f861efd763838c60",
+  "uid" : "f3e3b712c9c0fa46",
   "name" : "获取角色列表",
   "fullName" : "pyexcel_test.TestCase#test_mobile",
   "historyId" : "3fb644805f8ed4e06f5e05ce5a0138a6",
   "time" : {
-    "start" : 1755066051189,
-    "stop" : 1755066051481,
-    "duration" : 292
+    "start" : 1755241246867,
+    "stop" : 1755241247109,
+    "duration" : 242
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,40 +14,40 @@
   "beforeStages" : [ {
     "name" : "登录，获取token",
     "time" : {
-      "start" : 1755066050825,
-      "stop" : 1755066051168,
-      "duration" : 343
+      "start" : 1755241246606,
+      "stop" : 1755241246866,
+      "duration" : 260
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "7f1863b9a5e4a6a",
-      "name" : "5a4d82ac-488b-49b0-ac39-206feec62b50-attachment.attach",
-      "source" : "7f1863b9a5e4a6a.attach",
+      "uid" : "4d37dbd806b218e8",
+      "name" : "3f6b852d-ed50-4a89-932a-b8f75244bd02-attachment.attach",
+      "source" : "4d37dbd806b218e8.attach",
       "type" : "text/plain",
       "size" : 1471
     } ],
     "parameters" : [ ],
-    "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false,
+    "hasContent" : true,
     "stepsCount" : 0,
-    "hasContent" : true
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
   } ],
   "testStage" : {
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "f9f9145c60b94cec",
-      "name" : "ae2c57e0-be22-447a-a36a-835ca1fae5d1-attachment.attach",
-      "source" : "f9f9145c60b94cec.attach",
+      "uid" : "c9a91d2b24f86a4b",
+      "name" : "6f0f31f7-c209-4487-b226-ac7ba3b0194e-attachment.attach",
+      "source" : "c9a91d2b24f86a4b.attach",
       "type" : "text/plain",
       "size" : 1118
     } ],
     "parameters" : [ ],
-    "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false,
+    "hasContent" : true,
     "stepsCount" : 0,
-    "hasContent" : true
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -61,7 +61,7 @@
     "value" : "Yyyyyyys"
   }, {
     "name" : "thread",
-    "value" : "10344-MainThread"
+    "value" : "15072-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -88,6 +88,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "f861efd763838c60.json",
+  "source" : "f3e3b712c9c0fa46.json",
   "parameterValues" : [ "[1, 'https://workordertest.365lawhelp.com/api/MemberAdminService/Role/GetRoleList', None, 'get', None, None, '获取角色列表', '获取角色列表', None]" ]
 }
