@@ -4,22 +4,22 @@
   "children" : [ {
     "name" : "Yyyyyyys",
     "children" : [ {
-      "name" : "15072-MainThread",
+      "name" : "18472-MainThread",
       "children" : [ {
         "name" : "获取角色列表",
-        "uid" : "f3e3b712c9c0fa46",
-        "parentUid" : "1ff8d8bd75968d07187a40924a91a823",
+        "uid" : "725ab68ff8a3f3a9",
+        "parentUid" : "8c2a1a69fedf7e7333f768cf9e0b132b",
         "status" : "passed",
         "time" : {
-          "start" : 1755241246867,
-          "stop" : 1755241247109,
-          "duration" : 242
+          "start" : 1755242085022,
+          "stop" : 1755242085319,
+          "duration" : 297
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "[1, 'https://workordertest.365lawhelp.com/api/MemberAdminService/Role/GetRoleList', None, 'get', None, None, '获取角色列表', '获取角色列表', None]" ]
       } ],
-      "uid" : "1ff8d8bd75968d07187a40924a91a823"
+      "uid" : "8c2a1a69fedf7e7333f768cf9e0b132b"
     } ],
     "uid" : "0fc7cb04aa2d3e69943729946e5c1f08"
   } ]

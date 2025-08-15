@@ -11,7 +11,9 @@ if __name__ == '__main__':
     sender_email = "1033410783@qq.com"  # 替换为发件人邮箱
     sender_password = "xluoaygcexhpbbaf"  # 替换为发件人邮箱密码
     receiver_email = "13757137493@163.com"  # 替换为收件人邮箱
-    report_path = r"F:\Excel_one\report_allure\index.html"  # 替换为实际的报告路径
+
+    # 使用相对路径获取报告文件路径
+    report_path = os.path.join(os.getcwd(), "report_allure", "index.html")
 
     if os.path.exists(report_path):
         print(f"报告文件存在，路径为: {report_path}")

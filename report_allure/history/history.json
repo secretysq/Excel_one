@@ -9,12 +9,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f3e3b712c9c0fa46",
+      "uid" : "725ab68ff8a3f3a9",
       "status" : "passed",
       "time" : {
-        "start" : 1755241246867,
-        "stop" : 1755241247109,
-        "duration" : 242
+        "start" : 1755242085022,
+        "stop" : 1755242085319,
+        "duration" : 297
       }
     } ]
   }

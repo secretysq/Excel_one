@@ -3,13 +3,13 @@
   "name" : "behaviors",
   "children" : [ {
     "name" : "获取角色列表",
-    "uid" : "f3e3b712c9c0fa46",
+    "uid" : "725ab68ff8a3f3a9",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1755241246867,
-      "stop" : 1755241247109,
-      "duration" : 242
+      "start" : 1755242085022,
+      "stop" : 1755242085319,
+      "duration" : 297
     },
     "flaky" : false,
     "newFailed" : false,
